@@ -53,5 +53,3 @@ The game provides different levels of difficulty when playing against the comput
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Make sure to replace `example_gameplay.png` with an actual screenshot from your game to illustrate how it looks during gameplay. This `README.md` file provides an overview of your project, how to set it up, play it, and credits for libraries used. Adjust it as needed based on your specific project details and preferences.
